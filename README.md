@@ -1,8 +1,8 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
+<!-- ![logo](https://user-images.githubusercontent.com/106646158/236905595-5830dc4b-9df4-404f-af36-bbda58b58433.png) -->
+![logo-white](https://user-images.githubusercontent.com/106646158/236905512-cbce368f-6ad4-4939-bd86-2a2a4fe3cbfb.png)
 
-# D-Controller
 
 D-Controller is a Ground Control Station (GCS) software developed in Python language for controlling drones. It is designed to provide a user-friendly interface for controlling and monitoring drone operations.
 
