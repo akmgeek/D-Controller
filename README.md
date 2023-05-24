@@ -23,9 +23,8 @@ D-Controller is a Ground Control Station (GCS) software developed in Python lang
 - Pymavlink
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
+![image](https://github.com/akmgeek/D-Controller/assets/106646158/cc8cb788-a708-4b3f-8092-30edefb5b2f2)
 ## Usage/Examples
 
 ```javascript
